@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
+# Block nothing — static brochure site
 Sitemap: https://rjspropertyimprovements.co.uk/sitemap.xml
